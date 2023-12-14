@@ -1,0 +1,11 @@
+{
+  "name": "glass-card-3d",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "is-even": "^1.0.0",
+    "vite": "^5.0.8"
+  }
+}
